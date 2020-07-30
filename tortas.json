@@ -1,0 +1,47 @@
+{
+    "ponques": [
+        "Vainilla",
+        "Marmoleado",
+        "Vainilla limón",
+        "Ponqué de parchita",
+        "Ponqué de naranja",
+        "Chocolate",
+        "Chocobrownie",
+        "Vainilla con gotas de chocolates",
+        "Red velvet,",
+        "Carrotcake (zanahoria)",
+        "Ponqué de coco",
+        "black & White (ponqué de vainilla y chocolate alternados)",
+        "Ponqué de almendras"
+    ],
+    "otros": [
+        "Chcolate y coco",
+        "Vainilla y coco",
+        "Vainilla, chocolate y red velvet"
+    ],
+    "rellenos": [
+        "Dulce de leche", 
+        "ganache de chocolate",
+        "Ganache de chocolate blanco",
+        "Crema pastelera de vainilla", 
+        "Chocolate y caramelo", 
+        "Coco", 
+        "Almendra y parchita",
+        "Crema de coco",
+        "Butter cream de vainilla", 
+        "Chocolate",
+        "Dulce de leche", 
+        "Maní", 
+        "Oreo", 
+        "Gallera",
+        "Pastelado", 
+        "Praliné",
+        "Butter cream de queso crema y limón"
+    ],
+    "especiales": [
+        "M&M",
+        "Snikers",
+        "Hershey",
+        "Oreo"
+    ]
+}
