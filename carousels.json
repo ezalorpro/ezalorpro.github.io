@@ -12,24 +12,24 @@
     ],
     [
         {
-            "path": "_MG_8943.jpg"
+            "path": "_MG_8943.jpg", "alterno": "Galletas de chocolate"
         },
         {
-            "path": "_MG_9110.jpg"
+            "path": "_MG_9110.jpg", "alterno": "Torta con chocolates"
         }, 
         {
-            "path": "_MG_1288.jpg"
+            "path": "_MG_1288.jpg", "alterno": "Torta con decorado"
         }
     ],
     [
         {
-            "path": "_MG_8949.jpg"
+            "path": "_MG_8949.jpg", "alterno": "Pasapalos dulces"
         },
         {
-            "path": "_MG_4844.jpg"
+            "path": "_MG_4844.jpg", "alterno": "Torta de my little pony"
         },
         {
-            "path": "_MG_2845.jpg"
+            "path": "_MG_2845.jpg", "alterno": "Torta de tres pisos"
         }
     ]
 ]
