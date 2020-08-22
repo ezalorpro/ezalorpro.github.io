@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a96fd8294b7767660bf39840ed4ef801.js"
+  "/precache-manifest.ef51c5e64aee0fb8319eeadea9bd0059.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "avoncegroup"});
