@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ef51c5e64aee0fb8319eeadea9bd0059.js"
+  "/precache-manifest.e6ca2d8edc1464b2d66a194d2566ce75.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "avoncegroup"});
@@ -28,3 +28,5 @@ workbox.core.skipWaiting();
  */
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
+
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("index.html"));

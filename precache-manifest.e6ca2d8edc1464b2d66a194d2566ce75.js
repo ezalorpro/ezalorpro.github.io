@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "d03d471b78bfb9e9a66bda0ffd07aeac",
+    "revision": "8f4afe369d2b1a121e1927bc48ede55d",
     "url": "/index.html"
   },
   {
@@ -84,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.8ad13e29.js"
   },
   {
-    "revision": "52c0507b1cc17a713ed5dfe1371b0395",
+    "revision": "6cb7e3df1e8e91f2a911fac442f31485",
     "url": "/manifest.json"
   },
   {
